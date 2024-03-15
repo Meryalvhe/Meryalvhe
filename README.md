@@ -1,18 +1,22 @@
-<h1 aling="center"> Hi there 👋  I'm Mery! 👩🏽‍💻🌍</h1>
- Welcome to my page!  
+<h1 align="center"> Hi there 👋  I'm Mery! 👩🏽‍💻🌍</h1>
+ <p align="center"> Welcome to my page! </p>
  
- I'm a Fullstack developer in progress 
+ <p align="center"> I'm a Fullstack developer in progress. </p>
+
+ <h3 align="center">
+  <img src="https://media4.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="300" />
+</h3>
  
-## 🔭 I’m currently working with
-<p>
+<h2 align="center"> 🔭 I’m currently working with </h2> 
+<p align="center">
   <img alt="html5" src="https://img.shields.io/badge/HTML5%20-%20%23FE6800?logo=HTML5&logoColor=%23FFFFFF" />
   <img alt="css" src="https://img.shields.io/badge/CSS3-blue?logo=CSS3" />
   <img alt="bootstrap" src="https://img.shields.io/badge/BOOTSTRAP%20-%20%237700FE?logo=BOOTSTRAP&logoColor=%23FFFFFF" />
   <img alt="github" src="https://img.shields.io/badge/GITHUB%20-%20%23000000?logo=GITHUB&logoColor=%23FFFFFF" />
  </p>
  
-## 📖 Learning about
-<p>
+<h2 align="center"> 📖 Learning about </h2>
+<p align="center">
   <img alt="js" src="https://img.shields.io/badge/JAVASCRIPT-%20%23D104FF?logo=JAVASCRIPT&logoColor=%23FFFFFF" />
   <img alt="react" src="https://img.shields.io/badge/REACT%20-%20%2300BDF9?logo=REACT&logoColor=%23FFFFFF" />
   <img alt="python" src="https://img.shields.io/badge/PYTHON%20-%20%23FF0404?logo=PYTHON&logoColor=%23FFFFFF" />
