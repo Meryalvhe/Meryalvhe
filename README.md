@@ -6,8 +6,6 @@
 ## 🔭 I’m currently working with... 
  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
  <img alt="css" src="https://img.shields.io/badge/CSS3-blue?logo=CSS3" />
- <img alt="Bootstrap" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
- <img alt="javaScript" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
  
 
 <!--**Meryalvhe/Meryalvhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
