@@ -1,12 +1,23 @@
-# Hi there 👋  I'm Mery! 👩🏽‍💻🌍
+<h1 aling="center"> Hi there 👋  I'm Mery! 👩🏽‍💻🌍</h1>
  Welcome to my page!  
  
  I'm a Fullstack developer in progress 
  
-## 🔭 I’m currently working with... 
- <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
- <img alt="css" src="https://img.shields.io/badge/CSS3-blue?logo=CSS3" />
+## 🔭 I’m currently working with
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5%20-%20%23FE6800?logo=HTML5&logoColor=%23FFFFFF" />
+  <img alt="css" src="https://img.shields.io/badge/CSS3-blue?logo=CSS3" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/BOOTSTRAP%20-%20%237700FE?logo=BOOTSTRAP&logoColor=%23FFFFFF" />
+  <img alt="github" src="https://img.shields.io/badge/GITHUB%20-%20%23000000?logo=GITHUB&logoColor=%23FFFFFF" />
+ </p>
  
+## 📖 Learning about
+<p>
+  <img alt="js" src="https://img.shields.io/badge/JAVASCRIPT-%20%23D104FF?logo=JAVASCRIPT&logoColor=%23FFFFFF" />
+  <img alt="react" src="https://img.shields.io/badge/REACT%20-%20%2300BDF9?logo=REACT&logoColor=%23FFFFFF" />
+  <img alt="python" src="https://img.shields.io/badge/PYTHON%20-%20%23FF0404?logo=PYTHON&logoColor=%23FFFFFF" />
+  <img alt="flask" src="https://img.shields.io/badge/FLASK%20-%20%23000000?logo=FLASK&logoColor=%23FFFFFF" />
+ </p>
 
 <!--**Meryalvhe/Meryalvhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
