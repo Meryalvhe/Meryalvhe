@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mery! 👩🏽‍💻
+# Hi there 👋 I'm Mery! 👩🏽‍💻🌍
 
 <!--
 **Meryalvhe/Meryalvhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
