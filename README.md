@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋  I'm Mery! 👩🏽‍💻🌍</h1>
  <p align="center"> Welcome to my page! </p>
  
- <p align="center"> I'm a Full-stack developer </p>
+ <p align="center"> I am a full stack developer with experience in various technologies such as JavaScript, React, HTML5, CSS3, Python, Flask, and SQLAlchemy. </p>
 
  <h3 align="center">
   <img src="https://media4.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="300" />
